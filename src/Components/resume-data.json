@@ -1,0 +1,19 @@
+{
+    "name": "Virat Kohli",
+    "title": "Student",
+    "contact": {
+      "email": "kingkohli@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Delhi, India"
+    },
+    "education": 
+      {
+        "School": "Bachelor of Science in Computer Science",
+        "Intermediate": "University of Example",
+        "year": "2015"
+      },
+    
+
+    "Skills": ["React", "JavaScript", "HTML", "CSS"]
+  }
+  
